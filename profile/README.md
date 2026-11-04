@@ -14,7 +14,7 @@
   <a href="https://docs.gydr.ai/start/quick-start">Docs</a> ·
   <a href="https://news.gydr.ai">Newsroom</a> ·
   <a href="https://www.gydr.ai/releases">Release notes</a> ·
-  <a href="https://www.producthunt.com/products/gydr">Product Hunt</a>
+  <a href="https://www.linkedin.com/company/gydr">LinkedIn</a>
 </p>
 
 ---
