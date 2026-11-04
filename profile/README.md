@@ -41,4 +41,4 @@
 
 Start on the Free plan at **[gydr.ai](https://www.gydr.ai)**, or read what we are building and why in the **[newsroom](https://news.gydr.ai)**.
 
-<sub>Gydr.ai is built by Code Tigris PLT. Questions: <a href="https://www.gydr.ai/contact">gydr.ai/contact</a></sub>
+<sub>Questions: <a href="https://www.gydr.ai/contact">gydr.ai/contact</a></sub>
